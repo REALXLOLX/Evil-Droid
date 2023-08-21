@@ -1,12 +1,12 @@
 ## Evil-Droid Framework . Version 2 
-   ***Author: REALXLOLX***
+   **Author: REALXLOLX**
 
 ## Legal Disclamer
-  ***The Author Does Not Hold Any Responsibility For The Bad Use Of This tool,
-    Remember This is Only For Educational Purpose.***
+  **The Author Does Not Hold Any Responsibility For The Bad Use Of This tool,
+    Remember This is Only For Educational Purpose.**
 
 ## Description
-***Evil-Droid Is a Framework That Create & Generate & Embed Apk Payload to Penetrate Android Platforms.***
+**Evil-Droid Is a Framework That Create & Generate & Embed Apk Payload to Penetrate Android Platforms.**
 
 ### REQUIREMENTS
 * Internet
@@ -37,7 +37,7 @@
 ![Screenshot from 2023-08-21 12-20-00](https://github.com/REALXLOLX/Evil-Droid/assets/65902124/5afd1d35-b557-4ed9-a72f-0e9f7996dc89)
 
 
-## INSTALLATION [Kali Linux] :
+## INSTALLATION [Kali Linux] 
 
 * `apt update -y`
 * `apt upgrade -y`
@@ -48,9 +48,9 @@
 * `bash Evil-Droid`
 
 
-# Evil-Droid :
-***This New Evil-Droid is Best Tools For Metasploit Payload Bind To Any Original APK***
+# Evil-Droid 
+**This New Evil-Droid is Best Tools For Metasploit Payload Bind To Any Original APK**
 
 
-## WARNING : 
-***This Tool is Only For Educational Purpose. If You Use This Tool For Other Purposes Except Education We Will Not Be Responsible in Such Cases.***
+## WARNING 
+**This Tool is Only For Educational Purpose. If You Use This Tool For Other Purposes Except Education We Will Not Be Responsible in Such Cases.**
