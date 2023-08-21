@@ -1,29 +1,28 @@
-## Evil-Droid Framework . Version 2: 
+## Evil-Droid Framework . Version 2 
    ***Author: REALXLOLX***
 
-## Legal Disclamer:
+## Legal Disclamer
   ***The Author Does Not Hold Any Responsibility For The Bad Use Of This tool,
     Remember This is Only For Educational Purpose.***
 
-## Description:
+## Description
 ***Evil-Droid Is a Framework That Create & Generate & Embed Apk Payload to Penetrate Android Platforms.***
 
-### REQUIREMENTS :
-***Internet*** 
+### REQUIREMENTS
+* Internet
  
-## DEPENDENCIES :
-  1 - Metasploit-Framework
-	2 - Xterm
-	3 - Zenity
-	4 - Aapt
-	5 - Apktool
-	6 - Zipalign
+## DEPENDENCIES 
+   * 1 - Metasploit-Framework
+   * 2 - Xterm
+   * 3 - Zenity
+   * 4 - Aapt
+   * 5 - Apktool
+   * 6 - Zipalign
 
- ## FEATURES :
- 
- [+] Updated Maintainence !
- [+] Easy For Beginners !
- [+] Bind Any Apk  !
+ ## FEATURES 
+* [+] Updated Maintainence !
+* [+] Easy For Beginners !
+* [+] Bind Any Apk  !
 
 ## SCREENSHOT  
 
