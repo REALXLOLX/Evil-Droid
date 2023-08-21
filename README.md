@@ -1,4 +1,4 @@
-## Evil-Droid Framework . Version 2 
+## Evil-Droid Framework Version 2 
    **Author: REALXLOLX**
 
 ## Legal Disclamer
